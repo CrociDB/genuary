@@ -1,4 +1,4 @@
-# 1 - Particles
+# 1. Particles
 
 Written in **Lua** for **TIC-80**.
 
