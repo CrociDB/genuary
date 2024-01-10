@@ -1,4 +1,4 @@
-# Genuary 2024 #1
+# 1 - Particles
 
 Written in **Lua** for **TIC-80**.
 
