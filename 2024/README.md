@@ -12,3 +12,9 @@
 
 ![No Palettes](2/no-palettes.gif)
 
+## 3. Droste Effect
+
+**GLSL**/**Shadertoy**
+
+![Droste](3/droste.gif)
+
