@@ -36,3 +36,9 @@
 
 ![Pixel](6/screensaver.gif)
 
+## 7. Loading
+
+**Lua**/**TIC-80**
+
+![Loading](7/loading.gif)
+
